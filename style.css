@@ -51,6 +51,15 @@ body{
 	justify-content: center;
 }
 
+#scratch{
+	width: 100%;
+	margin: 10px 0px 10px 0px;
+	display: flex;
+    flex-direction: row;
+  	flex-wrap: wrap;
+	justify-content: center;
+}
+
 iframe{
 	margin: 2px;
 	border-radius: 5px;
